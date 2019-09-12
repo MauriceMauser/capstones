@@ -32,7 +32,7 @@ solnSquareVerifier.mintCapstone(tokenId, a, b, c, inputs)
 
 This will mint a new token, given the proof is unique and correct.
 
-To verify correctness, the [Verifier contract] (https://rinkeby.etherscan.io/address/0x197c169f2f6b6ada46059271d951dcbd2418e59c) is invoked internally.
+To verify correctness, the [Verifier contract](https://rinkeby.etherscan.io/address/0x197c169f2f6b6ada46059271d951dcbd2418e59c) is invoked internally.
 
 
 ## How to Test
