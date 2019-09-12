@@ -20,7 +20,7 @@ The tokens are listed in an OpenSea storefront on the Rinkeby Ethereum test netw
 
 ## Contract ABI
 
-The main contract can be found at [0x4501bf2ebbc8ff772b8b4ea9ef0673dc17e45fb8] (https://rinkeby.etherscan.io/address/0x4501bf2ebbc8ff772b8b4ea9ef0673dc17e45fb8).
+The main contract can be found at [0x4501bf2ebbc8ff772b8b4ea9ef0673dc17e45fb8](https://rinkeby.etherscan.io/address/0x4501bf2ebbc8ff772b8b4ea9ef0673dc17e45fb8).
 
 To **mint** a token, first generate a proof via Zokrates (that shows that you know the square of a number).
 
