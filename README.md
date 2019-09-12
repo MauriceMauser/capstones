@@ -6,7 +6,7 @@ Capstones are ERC721 Non-Fungible Tokens that represent real estate titles.
 
 ## Zero-Knowledge Proofs with Zokrates
 
-Their ownership is proven via zero-knowledge proofs, which have been created with Zokrates.
+Their ownership is proven via zero-knowledge proofs, which have been created with [Zokrates](https://zokrates.github.io/sha256example.html).
 (For simplicity's sake, proofs in this project are restricted to merely showing that you know the square of a number.)
 
 ## Capstones Storefront on OpenSea
